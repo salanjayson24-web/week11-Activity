@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+
+<head>
+<title>Page title</title>
+</head>
+
+<body>
+
+     <h1>This is a heading</h1>
+	<p>This is a paragraph.</p>
+	<p>This is another paragraph.</p>
+	<h2>Tour packages</h2>
+	<p>We help visitors plan a Batangas day trip</i><p>
+	<h2>Tour packages</h2>
+	<h3>Heritage Walk</h3>
+	<p>a sample half-day walking tour.</p>
+
+<p><strong>Bring drinking water.</strong></p>
+<p>Please arrive <em>before</em> the meeting time.</p> 
+
+<ol start="1">
+	<li>walking shoes</li>
+	<li>drinking water</li>
+	<li>Hat</li>
+
+</ol>
+
+
+
+<a href="#contact">ask about a tour</a>
+  <section id="contact">
+	<h2>contact</h2>
+  </section> 
+ <a href="https://www.tesda.gov.ph">
+  Read the WAI accessibility intoduction
+ </a>
+ 
+
+
+
+
+
+
+</body>
+</html>
+
